@@ -1,0 +1,8 @@
+html,body{height:100%;}
+body{background:#3b3b3b; font:12px/21px Tahoma; color:#aca9a3; position:relative; min-width:320px; height:100%;}
+.bg{background:url(../images/body-tail.gif) center top repeat;}
+.light-top{background:url(../images/light-top.jpg) center top no-repeat;}
+.light-tail{background:url(../images/light-tail.jpg) center top repeat-y;}
+.content-bg{background:#fff; box-shadow:0px 1px 8px rgba(111,108,101,0.1); -moz-box-shadow:0px 1px 8px rgba(111,108,101,0.1); -webkit-box-shadow:0px 1px 8px rgba(111,108,101,0.1);}
+.content-top{background:url(../images/content-top.gif) center top repeat-x;}
+.section-bg{background:url(../images/section-tail2.gif) center bottom repeat-x; padding-bottom:3px;}
